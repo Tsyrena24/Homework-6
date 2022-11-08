@@ -66,6 +66,7 @@ public class Main {
         }
         System.out.println();
 
+
         // Задание 3
         System.out.println("Задание 3");
         int money4 = 15_000;
